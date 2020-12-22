@@ -1,4 +1,9 @@
 # Data_analysis
 This is my data analysis project using mysql workbench and POWER BI tool
 
-#### Corona_case : https://www.worldometers.info/coronavirus/
+#### Sales Insight Output:
+![output](Sales_insight/output.png)
+
+#### Corona_case Output : 
+![output](Corona_Case/output.png)
+#### Corona_case Dataset : https://www.worldometers.info/coronavirus/
